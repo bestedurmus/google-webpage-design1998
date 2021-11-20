@@ -1,0 +1,75 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.logo{
+    text-align:center;
+    margin-top: 10px;
+}
+
+.search{
+    background-color:rgb(238, 238, 238) ;
+    width: 90%;
+    margin: auto;
+    text-align:center;   
+}
+
+.search input{
+    width: 317px;
+    height: 21px;
+    margin: auto;
+}
+
+.sections{
+    width: 90%;
+    margin: auto;
+    margin-top: 10px;
+    display: flex;
+    text-align: center;
+}
+
+.section1{
+    text-align: center;
+    width:35%;
+    background-color: #7EE5DA;
+    margin-right: 5px;
+    padding: 10px;
+
+   
+    
+}
+
+.section2{
+    background-color: #70CCC2;
+    width: 25%;
+    padding: 10px;
+    margin-right: 5px;
+
+    
+}
+
+.section3{
+    background-color: #62B3AA;
+    width: 40%;
+    padding: 10px;
+ 
+
+}
+
+.footer{
+    margin-top: 10px;
+    text-align: center;
+}
+
+#inpt{
+   
+}
+
+
+
+
+
+
+ 
